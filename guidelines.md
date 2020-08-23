@@ -1,5 +1,7 @@
 # Zoom guidelines for Prof. Loewe's classes
 
+These guidelines are a work in progress. We are all works in progress.
+
 ### Q:  What is the dress code?
 *   A:  Please wear clothing of some sort.
 
