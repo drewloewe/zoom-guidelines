@@ -23,6 +23,9 @@ These guidelines are a work in progress. We are all works in progress.
 ### Q: What if I have a weak WiFi connection?
 *   A: Turning off video can sometimes help to ease bandwidth load. Chat is also a low-bandwidth function. The occasional glitch is all but inevitable, even under the best of conditions. I have good WiFi at home, but my wife and kids will be online at the same time, so my connection may not always be 100% solid. We'll adapt.
 
+### Q: What if the class meeting goes down (WiFi/power outage from storms, e.g.)?
+*   A: We will adapt. Give me ten minutes or so to figure something out and try to get everything running again. I may mass-email the class with instructions for what to do. Don't assume that the class is over unless I say so, but we will adapt and get through it. If the class is totally taken out, I'll make sure that you get what you need, by hook or by crook.
+
 ### Q: How are you protecting my privacy in class and in visiting hours?
 *   A: This question brings up several related issues: 
 
