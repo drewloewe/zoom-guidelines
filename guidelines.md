@@ -1,7 +1,7 @@
 # Zoom guidelines for Prof. Loewe's classes
 
-Q:  What is the dress code?
-A:  Please wear clothing of some sort.
+*   Q:  What is the dress code?
+*   A:  Please wear clothing of some sort.
 
 Q:  Do I need to "curate" my Zoom background for a professional appearance?
 A:  No. Class meetings are not job interviews. A lot of the high-handed advice given to students on this score is officious and rather silly. A good rule of thumb is this: don't have anything visible around you that you would not want others to see, but if you have piles of laundry, etc., we will conclude merely that you are a person with a life, so you don't need to stage your room as if it were some *House Hunters* clip. I use a Zoom virtual background, but you do not have to (they increase bandwidth use).
