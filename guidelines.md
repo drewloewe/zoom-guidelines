@@ -4,7 +4,7 @@
 *   A:  Please wear clothing of some sort.
 
 ### Q:  Do I need to "curate" my Zoom background for a professional appearance?
-*   A:  No. Class meetings are not job interviews. A lot of the high-handed advice given to students on this score is officious and rather silly. A good rule of thumb is this: don't have anything visible around you that you would not want others to see, but if you have piles of laundry, etc., we will conclude merely that you are a person with a life, so you don't need to stage your room as if it were some *House Hunters* clip. I use a Zoom virtual background, but you do not have to (they increase bandwidth use).
+*   A:  No. Our class meetings are not job interviews. A lot of the high-handed advice given to students on this score is officious and rather silly. A good rule of thumb is this: don't have anything visible around you that you would not want others to see, but if you have piles of laundry, etc., we will conclude merely that you are a person with a life, so you don't need to stage your room as if it were some *House Hunters* clip. I use a Zoom virtual background, but you do not have to (they increase bandwidth use).
 
 ### Q:  May I eat or drink during class?
 *   A:  Do what you need to do. I usually have a coffee or water handy. Pro tips: mute your mic when eating/drinking, use a cup with a lid, so you don't accidentally ruin your computer.
