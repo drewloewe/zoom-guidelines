@@ -29,7 +29,7 @@ These guidelines are a work in progress. We are all works in progress.
 ### Q: How are you protecting my privacy in class and in visiting hours?
 *   A: This question brings up several related issues: 
 
-1) *Basic setup*-- I will be in a room with a closed door and will use headphones, so anything that you say will not be audible to outsiders. 
+1) *Basic setup*-- I will be in a room with a closed door, so anything that you say will not be audible to outsiders. 
 2) *Zoom recordings*-- I choose not to record our sessions by default. If you have a 504 accomodation that allows you to record sessions, I will of course support you, but please discuss it with me. Zoom allows participants to record if the host gives them permission, but you'll need to discuss the accommodation with me so we can make sure a) that it works for you and b) whether there's a less-intrusive way to get the benefit of the recording (e.g., recording audio with your phone or other means).
 3) *Zoom chat*-- I will probably save and share the Zoom chat transcripts becuse they are a good record of questions and I may require you, e.g., in breakout groups, to post items to the chat for the whole class to work through. Chat transcripts are far less intrusive than recordings. I may also write things in chat that emerge from discussions (or ask you to), just as a way to capture something important, offer some bit of advice, or deal with a Wi-Fi hiccup. The chat transcripts are simple time-stamped text files that have participant's names on them. Please be aware that private chats are not necessarily private in Zoom. Don't write anything in a Zoom chat that you would not feel comfortable sharing with the whole class.
 
